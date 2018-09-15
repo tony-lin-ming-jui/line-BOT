@@ -1,0 +1,8 @@
+ngrok http -host-header "localhost:9000" 9000  
+
+https://cab3dda1.ngrok.io/callback
+https://ithelp.ithome.com.tw/users/20107144/ironman/1548
+
+
+¥¿½Tªº
+https://github.com/line/line-bot-sdk-python#api
